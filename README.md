@@ -1,2 +1,2 @@
 # Consistent
-My first 
+My first repository 
